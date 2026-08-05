@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://thor-fortune-site-5.pages.dev/sitemap.xml
+Sitemap: https://thor-fortune-site-5-ewv.pages.dev/sitemap.xml
